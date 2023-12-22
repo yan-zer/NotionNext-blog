@@ -4,6 +4,7 @@
 }
 
 #nprogress .bar {
+  /*顶部加载进度条颜色*/
   background: #29d;
 
   position: fixed;
